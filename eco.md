@@ -75,21 +75,59 @@ marp: true
 ### 重庆 - 夜景
 ![w:800](./photo_1_2025-11-06_16-18-56.jpg)
 
-
 ---
 
-### 云南 - 滇池
+### 昆明 - 滇池
 ![w:800](./photo_6_2025-11-06_16-18-56.jpg)
 
 ---
 
-### 云南 - 翠湖
+### 昆明 - 翠湖
 ![w:800](./photo_8_2025-11-06_16-18-56.jpg)
+
+---
+
+### 昆明 - 翠湖
+![w:800](photo_9_2025-11-06_16-18-56.jpg)
+
+---
+
+### 昆明 - 翠湖 - 动物们
+
+<div style="display:flex; justify-content:center; align-items:center; gap:40px; margin-top:20px;">
+  <img src="photo_5_2025-11-06_17-21-11.jpg" width="550">
+  <img src="photo_4_2025-11-06_17-31-32.jpg" width="550">
+</div>
+
+---
+
+### 昆明 - 花市
+
+<div style="display:flex; justify-content:center; align-items:center; gap:40px; margin-top:20px;">
+  <img src="photo_2_2025-11-06_17-21-11.jpg" width="550">
+  <img src="photo_3_2025-11-06_17-21-11.jpg" width="550">
+</div>
 
 ---
 
 ### 贵阳
 ![w:800](./photo_5_2025-11-06_16-18-56.jpg)
+
+---
+
+### 贵阳 - 黔灵山
+![w:800](./photo_4_2025-11-06_17-21-11.jpg)
+
+---
+
+### 西南美食 😁
+
+<div style="display:flex; justify-content:center; align-items:center; gap:40px; margin-top:20px;">
+  <img src="photo_2_2025-11-06_17-31-32.jpg" width="350">
+  <img src="photo_1_2025-11-06_17-31-32.jpg" width="350">
+  <img src="photo_1_2025-11-06_17-21-11.jpg" width="350">
+  <img src="photo_2025-11-06_17-36-36.jpg" width="350">
+</div>
 
 ---
 
