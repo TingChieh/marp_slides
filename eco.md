@@ -139,5 +139,5 @@ marp: true
 ---
 
 # Thanks for watching!!!
-## Power By Marp.
+## Powered By Marp.
 ![](./marpit.png)
