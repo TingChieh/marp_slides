@@ -7,7 +7,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
 --------------
 
-# **《不方便，但很幸福》& 家乡分享**
+# **Deforestation of the Amazon rainforest**
 
 ---
 # **如果你看不清**
